@@ -1,0 +1,5 @@
+panadas
+nympy
+matplotlib
+scikit-learn
+jupyter
